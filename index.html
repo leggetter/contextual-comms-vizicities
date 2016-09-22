@@ -1,0 +1,52 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>ViziCities Demo</title>
+  <meta name="description" content="Vizicities Test">
+  <meta name="author" content="Phil Leggetter">
+
+  <!-- <script src="./bower_components/three.js/build/three.min.js"></script> -->
+  <link rel="stylesheet" href="http://cdn.rawgit.com/UDST/vizicities/master/dist/vizicities.css" />
+  
+  <style>
+    * { margin: 0; padding: 0; }
+    html, body { height: 100%; overflow: hidden;}
+
+    #world { height: 100%; }
+    
+    #button_bar {
+      position: fixed;
+      top: 0;
+      z-index: 100;
+    }
+    
+    #button_bar button {
+      display: inline-block;
+    }
+    
+    .label {
+      border: 1px solid black;
+      min-width: 50px;
+      min-height: 20px;
+      text-align: center;
+    }
+  </style>
+  <div id="button_bar">
+    <button>home</button>
+    <button>bristoljs</button>
+    <button>bristoljs-label</button>
+    <button>location</button>
+  </div>
+</head>
+<body>
+  <div id="world"></div>
+  <script src="http://cdn.rawgit.com/UDST/vizicities/master/examples/vendor/three.min.js"></script>
+  <script src="http://cdn.rawgit.com/UDST/vizicities/master/examples/vendor/TweenMax.min.js"></script>
+  <script src="http://cdn.rawgit.com/UDST/vizicities/master/dist/vizicities.js"></script>
+  
+  <script src="./app/dist/app.min.js"></script>
+</body>
+</html>
