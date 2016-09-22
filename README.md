@@ -6,6 +6,8 @@ You can view the [Contextual Communication Slides](http://www.slideshare.net/leg
 
 Whilst you're at it, why not [join the Nexmo Community Slack](https://bit.ly/nexmo-slack) 😀
 
+![ViziCities showing the Just Eat Offices, where Bristol JS is often held](just-eat-bristol-js.png)
+
 ## Usage
 
 Ensure you've got the [Gulp CLI](https://github.com/gulpjs/gulp-cli) installed. Then clone the repo, navigate into the repo directory and run:
