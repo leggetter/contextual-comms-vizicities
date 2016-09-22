@@ -27,7 +27,7 @@ Oh so much. The idea was to demonstrate usage of the technologies in the context
 
 ## Issues
 
-This was done in a bit of a rush. So please do [raise issues](issues/) and I'll get them fixed.
+This was done in a bit of a rush. So please do [raise issues](../../issues/) and I'll get them fixed.
 
 ## License
 
