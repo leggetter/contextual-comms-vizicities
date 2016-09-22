@@ -19,7 +19,7 @@ gulp serve
 
 A browser will launch with the example app and you can navigate using the mouse or by clicking on the button in the top-left of the UI.
 
-The default location is Bristol. Take a look at <index.html>, <lib/main.js> and <lib/vizi.js> for more info. Yeah, it's a bit hacky.
+The default location is Bristol. Take a look at [index.html](index.html), [lib/main.js](lib/main.js) and [lib/vizi.js](lib/vizi.js) for more info. Yeah, it's a bit hacky.
 
 ## TODO
 
