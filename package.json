@@ -28,7 +28,6 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
-    "jquery": "^3.1.0",
-    "verify-javascript-sdk": "^0.2.4"
+    "jquery": "^3.1.0"
   }
 }
